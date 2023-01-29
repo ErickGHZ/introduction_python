@@ -1,8 +1,7 @@
 """
-The given code has been designed to display the user’s nickname and score in a video game. It should output:
-Nickname: Master
-Score: 99
-But there is something wrong. Can you fix it?
+Imagine you need to create a program for a shop that outputs the price of an item.
+The given program is designed to display Price: 87$
+But it’s incomplete.
 """
-print("Nickname:", "Master")  #  concatena cadenas de caracteres y la imprime
-print("Score:", 99)  #  concatena cadenas de caracteres, un int y lo imprime
+precio = "87$"  #  variable para almacenar el precio de un articulo
+print("Price:", precio)  #  concatena cadenas de caracteres, una variable y la imprime
