@@ -1,4 +1,9 @@
 """
+Storing data
+
+The given code declares a variable called num and outputs its value.
+
+Task:
 Change the code so it outputs the value multiplied by 5.
 """
 num = 4  #  variable para almacenar el valor de un numero

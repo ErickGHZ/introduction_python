@@ -1,6 +1,11 @@
 """
-Ever wonder how many seconds are there in a day?
+Simple Operations
+
+Ever wonder how many seconds are there in a day🕰️?
 Let's calculate it! 
+
+Task
+Write a program to calculate and output the answer.
 """
 horas_en_un_dia = 24  #  variable para almacenar las horas que hay en un dia
 minutos_en_una_hora = 60  #  variable para almacenar los minutos que hay en una hora
