@@ -14,7 +14,7 @@ Country: Portugal
 Capital: Lisbon
 """
 
-country = input()
-capital = input()
-print("Country:", country)
-print("Capital:", capital)
+country = input()  #  guarda la entrada que realiza el usuario en una variable
+capital = input()  #  guarda la entrada que realiza el usuario en una variable
+print("Country:", country)  #  imprime una cadena de texto y una varibale
+print("Capital:", capital)  #  imprime una cadena de texto y una varibales
