@@ -17,3 +17,5 @@
 |11|ejercicio2.py|Country Cards|
 |12|ejercicio3.py|Working with Input|
 |13|ejercicio4.py|Chess Tournament|
+|14|ejercicio5.py|Bank Account Balance|
+|15|ejercicio6.py|Tip Calculator|
