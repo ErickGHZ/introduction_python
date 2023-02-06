@@ -19,3 +19,4 @@
 |13|ejercicio4.py|Chess Tournament|
 |14|ejercicio5.py|Bank Account Balance|
 |15|ejercicio6.py|Tip Calculator|
+|16|ejercicio1.py|if Statements|
