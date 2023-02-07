@@ -20,3 +20,5 @@
 |14|ejercicio5.py|Bank Account Balance|
 |15|ejercicio6.py|Tip Calculator|
 |16|ejercicio1.py|If Statements|
+|17|ejercicio2.py|Tke your kindle!|
+|18|ejercicio3.py|else Statement|
