@@ -19,14 +19,12 @@ green
 Output Example
 box #2
 """
-color = input()
-
-#your code goes here
-if color == "red":
-    print("box #1")
-elif color == "green":
-    print("box #2")
-elif color == "black":
-    print("box #3")
-else:
-    print("unknown")
+color = input()  #  pide una entrada de una cadena de texto
+if color == "red":  #  realiza una comparacion
+    print("box #1")  #  si la comparacaion anteior es correcta imprime una cadena de texto
+elif color == "green":  #  si la comparacion anterior no fue cierta realiza esta comparacion
+    print("box #2")  #  si la comparacaion anteior es correcta imprime una cadena de texto
+elif color == "black":  #  si la comparacion anterior no fue cierta realiza esta comparacion
+    print("box #3")  #  si la comparacaion anteior es correcta imprime una cadena de texto
+else:  #  si la comparacion anterior no fue cierta realiza esta accion
+    print("unknown")  #  imprime una cadena de texto
