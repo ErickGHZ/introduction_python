@@ -22,3 +22,6 @@
 |16|ejercicio1.py|If Statements|
 |17|ejercicio2.py|Tke your kindle!|
 |18|ejercicio3.py|else Statement|
+|19|ejercicio4.py|Organized Robot|
+|20|ejercicio5.py|Boolean Logic|
+|21|ejercicio6.py|Open or Closed|
