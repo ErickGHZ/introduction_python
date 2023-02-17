@@ -25,3 +25,4 @@
 |19|ejercicio4.py|Organized Robot|
 |20|ejercicio5.py|Boolean Logic|
 |21|ejercicio6.py|Open or Closed|
+|22|ejercicio7.py|while Loops|
