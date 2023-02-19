@@ -27,3 +27,4 @@
 |21|ejercicio6.py|Open or Closed|
 |22|ejercicio7.py|while Loops|
 |23|ejercicio8.py|Countdown|
+|24|ejercicio9.py|Going Once, Going Twice, Sold!|
