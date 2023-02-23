@@ -7,5 +7,5 @@ Write a program to take an input, add it to the end of the queue, and output the
 """
 queue = ['John', 'Amy', 'Bob', 'Adam']  #  crea una lista
 x= input()  #  guarda una entrada de texto en una varianble
-queue.insert(x)  # inserta la en la lista la variable x
+queue.append(x)  # inserta la en la lista la variable x
 print(queue)  #  imprime la lista
